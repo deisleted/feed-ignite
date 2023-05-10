@@ -19,7 +19,7 @@ Neste projeto, foram desenvolvidas **funcionalidades para curtir, comentar e exc
 
 O Projeto Ignite Feed da Rocketseat foi uma excelente oportunidade para desenvolvedor e aprimorarem minhas habilidades em React, trabalhando em um projeto real e aprendendo na prática como implementar funcionalidades importantes em um sistema de rede social.
 
-Para visualizar o prototipo do projeto <a href="https://www.figma.com/file/LJd0n6JWoX0tazQidvAB4H/Ignite-Feed-(Community)?type=design&node-id=66%3A13&t=Ca5TXb2QshHGOfuJ-1" target="_blank>clique aqui</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+Para visualizar o prototipo do projeto <a href="https://www.figma.com/file/LJd0n6JWoX0tazQidvAB4H/Ignite-Feed-(Community)?type=design&nodeid=66%3A13&t=Ca5TXb2QshHGOfuJ-1" target="_blank">clique aqui</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
 
 ## 🚀 Tecnologias
 
