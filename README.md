@@ -6,14 +6,10 @@
   <a href="https://feed-ignite-dun.vercel.app/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">📝 License</a>
 </p>
 
-<p align="center">
-    <a href="https://www.figma.com/file/LJd0n6JWoX0tazQidvAB4H/Ignite-Feed-(Community)?type=design&node-id=0%3A1&t=Ca5TXb2QshHGOfuJ-1"><img src="./src/assets/Capa.png" alt="Capa Projeto"></a>
-</p>
 
-![Preview](./assets/preview.jpg)
+![Preview](./src/assets/Capa.png)
 
 ## 💻 Projeto
 
